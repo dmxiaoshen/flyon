@@ -10,6 +10,7 @@
 		<module>flyon-base</module>
 		<module>flyon-common</module>
 		<module>flyon-web</module>
+		<module>core-java</module>
 	</modules>
 	<properties>
 		<flyon.test.skip>true</flyon.test.skip>
